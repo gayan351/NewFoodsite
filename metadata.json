@@ -1,0 +1,8 @@
+{
+  "name": "රස පියස - Sri Lankan Traditional Food Guide & Recipe Finder",
+  "description": "Discover authentic Sri Lankan recipes, find dishes based on ingredients you have at home, filter by meal and prep time, and save your favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
